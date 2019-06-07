@@ -16,7 +16,7 @@
 title: Joseph Laurino
 email: joseph.laurino@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A little corner on the digital world where I share my thoughts.
+  A little corner within the digital world where I share my thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: josephlaurino
