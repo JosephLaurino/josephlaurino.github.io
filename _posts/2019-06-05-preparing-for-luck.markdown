@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preparing for luck"
+title:  "Preparing for Luck"
 date:   2019-06-05 16:00:00 -0700
 categories: update
 ---
