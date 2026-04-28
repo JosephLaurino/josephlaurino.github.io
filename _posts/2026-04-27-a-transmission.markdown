@@ -8,6 +8,6 @@ categories: update
 A transmission
 
 <audio controls preload="metadata">
-  <source src="/assets/audio/transmission-11A.mp3" type="audio/mp4">
+  <source src="/assets/audio/transmission-11A.mp3">
   Your browser does not support the audio element.
 </audio>
