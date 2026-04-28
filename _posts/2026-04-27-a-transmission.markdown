@@ -8,7 +8,9 @@ categories: update
 # A transmission
 
 ```text
-The transmission below was not recieved by radio but rather was AI generated during a coding session.  I was working on learning how to program e-book and was generated unit tests.  This audio file showed up on my file system.  
+The transmission below was not recieved by radio but rather was AI generated during a
+coding session.  I was working on learning how to program e-book and was generated unit
+tests.  This audio file showed up on my file system.  
 ```
 
 <audio controls>
@@ -20,7 +22,9 @@ The transmission below was not recieved by radio but rather was AI generated dur
 ## Podcast: The Quantum Multiverse of Generative Intelligence
 
 ```text
-The audio was really odd so I vibe coded a script to analyze the audio file above and to my surprise the output included a couple of markdown files.  One of them was a poem. To brainstorm, I uploaded the info to NotebookLLM and here's the generated podcast.
+The audio was really odd so I vibe coded a script to analyze the audio file above and to
+my surprise the output included a couple of markdown files.  One of them was a poem. To
+brainstorm, I uploaded the info to NotebookLLM and here's the generated podcast.
 ```
 
 <audio controls>
