@@ -48,6 +48,7 @@ Exactly.
 What if I told you that in another dimension
 that exact same request just took an entire society,
 like three grueling weeks of physical labor to compute?
+
 I mean, it completely shatters how we look
 at that blinking cursor on our screens, doesn't it?
 
