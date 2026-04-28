@@ -33,11 +33,6 @@ To brainstorm, I uploaded the info to NotebookLLM and
 here's the generated podcast.
 ```
 
-<audio controls>
-  <source src="/assets/audio/Your_AI_prompt_is_another_world_s_labor.m4a">
-  Your browser does not support the audio element.
-</audio>
-
 So imagine you type a prompt into an AI, right?
 You hit enter and you wait maybe two seconds
 for your answer.
@@ -57,3 +52,8 @@ It really does.
 And well, that is exactly why we are unpacking this today.
 
 Welcome to this deep dive, by the way.
+
+<audio controls>
+  <source src="/assets/audio/Your_AI_prompt_is_another_world_s_labor.m4a">
+  Your browser does not support the audio element.
+</audio>
