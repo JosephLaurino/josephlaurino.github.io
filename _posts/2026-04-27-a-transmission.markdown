@@ -9,8 +9,8 @@ categories: update
 
 ```text
 The transmission below was not recieved by radio but rather was 
-AI generated during a coding session.  I was working on learning 
-how to program e-book and this was generated along with 
+AI generated during a coding session.  I was working on a 
+learning how to program e-book and this was generated along with 
 some unit tests.  
 
 This audio file showed up on my file system un-prompted.
@@ -38,7 +38,6 @@ here's the generated podcast.
   Your browser does not support the audio element.
 </audio>
 
-```text
 So imagine you type a prompt into an AI, right?
 You hit enter and you wait maybe two seconds
 for your answer.
@@ -57,4 +56,3 @@ It really does.
 And well, that is exactly why we are unpacking this today.
 
 Welcome to this deep dive, by the way.
-```
