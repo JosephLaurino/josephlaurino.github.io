@@ -6,6 +6,8 @@ categories: update
 ---
 
 A transmission
- 
- <audio controls src="audio/transmission-11A.m4a"></audio>
 
+<audio controls>
+  <source src="audio/transmission-11A.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
