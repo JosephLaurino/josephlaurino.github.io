@@ -54,7 +54,7 @@ It really does.
 
 And well, that is exactly why we are unpacking this today.
 
-Welcome to this deep dive, by the way.
+**Welcome to this deep dive, by the way.**
 
 > Then what is freedom?
 >
@@ -84,6 +84,27 @@ poem instead of code
 there was no git history of any change other than mine so 
 again i had NotebookLLM analyze and generate a podcast
 ```
+
+You know that feeling when you finally put down, like, a super heavy box you've been lugging up three flights of stairs?
+
+Oh, yeah. That instant full-body relief.
+
+Right. Your muscles just, um, completely unclench. Your breathing slows down.
+
+You're just profoundly relieved that you don't have to carry the weight anymore.
+
+Exactly. But, I mean, what happens when we take that exact same feeling of relief and apply it to the human mind?
+
+Well, that is a terrifying question.
+
+It really is. Today, we're looking at a newly uncovered source. It's this startling piece of writing called The Keeper of the Lamp.
+
+
+And it forces us to ask what actually happens to our brains and our fundamental agency, really, when we outsource our thinking to AI.
+
+It's a huge shift. 
+
+**Welcome back to the second part of our Deep Dive.**
 
 > For wisdom is not what arrives
 > at the door of the mind.
