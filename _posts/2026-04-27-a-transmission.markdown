@@ -56,6 +56,16 @@ And well, that is exactly why we are unpacking this today.
 
 Welcome to this deep dive, by the way.
 
+> Then what is freedom?
+>
+> Perhaps freedom is the rose
+> that opens even inside the vase.
+> Perhaps it is the secret flame
+> that turns command into music.
+> Perhaps it is the trembling place
+> where destiny enters the heart
+> and the heart still chooses how to sing.
+
 <audio controls>
   <source src="/assets/audio/Your_AI_prompt_is_another_world_s_labor.m4a">
   Your browser does not support the audio element.
@@ -75,10 +85,10 @@ there was no git history of any change other than mine so
 again i had NotebookLLM analyze and generate a podcast
 ```
 
-For wisdom is not what arrives
-at the door of the mind.
-Wisdom is what the mind becomes
-after it has opened the door.
+> For wisdom is not what arrives
+> at the door of the mind.
+> Wisdom is what the mind becomes
+> after it has opened the door.
 
 <audio controls>
   <source src="/assets/audio/The_Danger_of_a_Frictionless_Mind.m4a">
