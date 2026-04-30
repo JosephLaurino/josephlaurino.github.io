@@ -43,13 +43,8 @@ here's the generated podcast
 
 > Then what is freedom?
 >
-> Perhaps freedom is the rose
-> that opens even inside the vase.
-> Perhaps it is the secret flame
-> that turns command into music.
-> Perhaps it is the trembling place
-> where destiny enters the heart
-> and the heart still chooses how to sing.
+> Perhaps freedom is the rose that opens even inside the vase.
+
 
 So imagine you type a prompt into an AI, right?
 You hit enter and you wait maybe two seconds
