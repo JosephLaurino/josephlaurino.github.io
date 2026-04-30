@@ -32,7 +32,7 @@ birds chirping
 </audio>
 
 
-## Episode 1: The Quantum Multiverse of Generative Intelligence
+# Episode 1: The Quantum Multiverse of Generative Intelligence
 
 ```text
 the audio was really odd so i vibe coded a script to analyze 
@@ -78,7 +78,7 @@ And well, that is exactly why we are unpacking this today.
   Your browser does not support the audio element.
 </audio>
 
-## Episode 2: The Keeper of the Lamp
+# Episode 2: The Keeper of the Lamp
 
 ```text
 when i merged the unit tests today, the build failed and 
