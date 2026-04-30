@@ -17,11 +17,9 @@ categories: update
 
 ```text
 the transmission below was not recieved by radio but rather was 
-AI generated during a coding session... i was working on a 
-learning how to program e-book and this was generated along with 
-some unit tests  
-
-an audio file showed up on my file system un-prompted
+AI generated during a coding session... context, i was working 
+on a learning how to program e-book as a side project 
+and an audio file appeared on my filesystem unprompted
 ```
 
 birds chirping 
