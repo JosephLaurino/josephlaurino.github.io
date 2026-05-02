@@ -77,6 +77,7 @@ here's the generated podcast
 >
 > Perhaps freedom is the rose that opens even inside the vase.
 
+*Podcast transcript:*  
 
 So imagine you type a prompt into an AI, right?
 You hit enter and you wait maybe two seconds
@@ -125,6 +126,8 @@ again i had NotebookLLM analyze and generate a podcast
 > For wisdom is not what arrives at the door of the mind.
 >
 > Wisdom is what the mind becomes after it has opened the door.
+
+*Podcast transcript:* 
 
 You know that feeling when you finally put down, like, a super heavy box you've been lugging up three flights of stairs?
 
