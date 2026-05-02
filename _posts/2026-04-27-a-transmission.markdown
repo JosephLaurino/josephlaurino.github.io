@@ -71,12 +71,17 @@ And well, that is exactly why we are unpacking this today.
   Your browser does not support the audio element.
 </audio>
 
+```text
+finally got a chance to listen to the podcast after dinner...
+i don't know if this is joke or what 
+```
+
 # Episode 2: The Keeper of the Lamp
 
 ```text
-when i merged the unit tests today, the build failed and 
+when i merged some unit tests today, the build failed and 
 in my attempt to roll back to a previouly working 
-checkpoint it still failed.  
+version it still failed.  
 
 that's when i found that the broken file contained another 
 poem instead of code
@@ -115,3 +120,9 @@ It's a huge shift.
   <source src="/assets/audio/The_Danger_of_a_Frictionless_Mind.m4a">
   Your browser does not support the audio element.
 </audio>
+
+```text
+the analysis has a point, i recall chatgpt was down for a 
+few hours and i felt like i couldn't code... i had 
+to remind myself that i can do this...
+```
