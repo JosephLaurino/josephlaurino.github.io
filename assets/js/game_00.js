@@ -9,11 +9,10 @@ function setup() {
 function draw() {
   background(30);
 
+  // Smoothly follow the mouse
+  x += (mouseX - x) * 0.08;
+  y += (mouseY - y) * 0.08;
+
   fill(255);
   circle(x, y, 40);
-
-  if (keyIsDown(LEFT_ARROW)) x -= 3;
-  if (keyIsDown(RIGHT_ARROW)) x += 3;
-  if (keyIsDown(UP_ARROW)) y -= 3;
-  if (keyIsDown(DOWN_ARROW)) y += 3;
 }
