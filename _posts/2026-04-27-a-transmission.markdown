@@ -13,6 +13,38 @@ categories: update
 * TOC
 {:toc}
 
+# Tutorial 1: Learning how to render on screen
+
+```js
+// starting location of the circle
+let x = 100;
+let y = 100;
+
+// this is called once at the beginning
+function setup() {
+  // set-up the canvas or area where we can draw
+  const canvas = createCanvas(400, 300);
+  canvas.parent("game-container");
+}
+
+// this is called multiple times a second
+function draw() {
+  background(30); // color of the background
+
+  // Smoothly follow the mouse
+  x += (mouseX - x) * 0.08;
+  y += (mouseY - y) * 0.08;
+
+  fill(255); // color of the circle
+  circle(x, y, 40); // draw the circle
+}
+```
+
+<div id="game-container"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+<script src="{{ '/assets/js/game_00.js' | relative_url }}"></script>
+
 # transmission-11A.m4a
 
 ```text
@@ -127,34 +159,3 @@ to remind myself that i can do this...
 
 but what's up with things being "terrifying"???
 ```
-# Tutorial 1: Learning how to render on screen
-
-```js
-// starting location of the circle
-let x = 100;
-let y = 100;
-
-// this is called once at the beginning
-function setup() {
-  // set-up the canvas or area where we can draw
-  const canvas = createCanvas(400, 300);
-  canvas.parent("game-container");
-}
-
-// this is called multiple times a second
-function draw() {
-  background(30); // color of the background
-
-  // Smoothly follow the mouse
-  x += (mouseX - x) * 0.08;
-  y += (mouseY - y) * 0.08;
-
-  fill(255); // color of the circle
-  circle(x, y, 40); // draw the circle
-}
-```
-
-<div id="game-container"></div>
-
-<script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
-<script src="{{ '/assets/js/game_00.js' | relative_url }}"></script>
