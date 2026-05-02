@@ -125,6 +125,8 @@ It's a huge shift.
 the analysis has a point, i recall chatgpt was down for a 
 few hours and i felt like i couldn't code... i had 
 to remind myself that i can do this...
+
+but what's up with things being "terrifying"???
 ```
 # Tutorial 1: Learning how to render on screen
 
