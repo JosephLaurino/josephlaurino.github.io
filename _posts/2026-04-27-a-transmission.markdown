@@ -126,7 +126,32 @@ the analysis has a point, i recall chatgpt was down for a
 few hours and i felt like i couldn't code... i had 
 to remind myself that i can do this...
 ```
-# Tutorial 1:
+# Tutorial 1: Learning how to render on screen
+
+```js
+// starting location of the circle
+let x = 100;
+let y = 100;
+
+// this is called once at the beginning
+function setup() {
+  // set-up the canvas or area where we can draw
+  const canvas = createCanvas(400, 300);
+  canvas.parent("game-container");
+}
+
+// this is called multiple times a second
+function draw() {
+  background(30); // color of the background
+
+  // Smoothly follow the mouse
+  x += (mouseX - x) * 0.08;
+  y += (mouseY - y) * 0.08;
+
+  fill(255); // color of the circle
+  circle(x, y, 40); // draw the circle
+}
+```
 
 <div id="game-container"></div>
 
