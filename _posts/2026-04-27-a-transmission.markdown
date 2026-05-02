@@ -126,3 +126,9 @@ the analysis has a point, i recall chatgpt was down for a
 few hours and i felt like i couldn't code... i had 
 to remind myself that i can do this...
 ```
+# Tutorial 1:
+
+<div id="game-container"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/p5@1.9.4/lib/p5.min.js"></script>
+<script src="{{ '/assets/js/game_00.js' | relative_url }}"></script>
