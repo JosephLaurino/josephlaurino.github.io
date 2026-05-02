@@ -90,10 +90,9 @@ there was no git history of any change other than mine so
 again i had NotebookLLM analyze and generate a podcast
 ```
 
-> For wisdom is not what arrives
-> at the door of the mind.
-> Wisdom is what the mind becomes
-> after it has opened the door.
+> For wisdom is not what arrives at the door of the mind.
+>
+> Wisdom is what the mind becomes after it has opened the door.
 
 You know that feeling when you finally put down, like, a super heavy box you've been lugging up three flights of stairs?
 
