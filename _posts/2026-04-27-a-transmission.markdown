@@ -180,7 +180,7 @@ but what's up with things being "terrifying"???
 >
 > The cup is already at your mouth.”
 > 
-> And slowly, > the muscles of seeking grow thin.
+> And slowly, the muscles of seeking grow thin.
 >
 >
 > If you never remember, memory becomes a deserted house.
