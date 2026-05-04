@@ -162,3 +162,33 @@ to remind myself that i can do this...
 
 but what's up with things being "terrifying"???
 ```
+
+# Random thoughts
+
+
+> The mind is clay, and every question is a thumb upon it.
+>
+> Every struggle, every dark corridor, every hour spent knocking on a door that will not open—these are the fingers of the Hidden Potter.
+>
+> But now a voice comes quickly, sweet as pomegranate wine, saying,
+>
+> “Why wander?
+>
+> The answer is here.
+> 
+> Why thirst?
+>
+> The cup is already at your mouth.”
+> 
+> And slowly, > the muscles of seeking grow thin.
+>
+>
+> If you never remember, memory becomes a deserted house.
+> 
+> If you never choose, judgment becomes a sleeping king.
+>
+>
+>
+> For the danger is not that the machine will think.
+>
+> The danger is that you will ask it to dream in your place.
