@@ -189,6 +189,10 @@ but what's up with things being "terrifying"???
 >
 >
 >
-> For the danger is not that the machine will think.
+> For the danger is not that 
+> 
+> the machine will think.
 >
-> The danger is that you will ask it to dream in your place.
+> The danger is that you will ask it 
+> 
+> to dream in your place.
